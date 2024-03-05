@@ -1,2 +1,2 @@
-# Cleaning-Messy-Data
+# lessons-in-data
 This is a data cleaning exercise
